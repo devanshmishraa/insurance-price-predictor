@@ -28,7 +28,6 @@ dist/
 
 # Cache
 *.cache/
-*.pkl
 
 # OS-specific
 .DS_Store
